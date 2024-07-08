@@ -1,5 +1,7 @@
 # React + Vite
 
+Developed a responsive Todo list application using React.js, allowing users to add, delete, and update tasks. Implemented state management with React hooks and utilized local storage for data persistence.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
